@@ -1,0 +1,13 @@
+// ------------------------------------------------------------------
+// List of ignite-hadoop module's dependencies provided as a part of this distribution
+// which licenses differ from Apache Software License.
+// ------------------------------------------------------------------
+
+==============================================================================
+For ASM All (http://asm.objectweb.org/asm-all/) org.ow2.asm:asm-all:jar:4.2
+==============================================================================
+This product bundles ASM All which is available under a:
+BSD. For details, see http://asm.objectweb.org/license.html.
+
+
+
